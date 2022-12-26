@@ -1,3 +1,6 @@
 .vscode
 .DS_Store
 peng.code-workspace
+build
+PengOS
+构建镜像
